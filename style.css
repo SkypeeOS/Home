@@ -6,5 +6,7 @@
 }
 
 #SearchInput{
-    align-self: center;
+    align-items: center;
+    width: 300%;
+    height: 100%;
 }
